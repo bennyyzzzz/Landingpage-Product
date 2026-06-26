@@ -7,7 +7,7 @@
 }
 
 .py-xl{
-    padding-block: var(--py-xl);
+    padding: var(--py-xl);
 }
 
 .px-lg{
