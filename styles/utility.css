@@ -3,7 +3,7 @@
 }
 
 .py-lg{
-    padding-block: var(--py-lg);
+    padding: var(--py-lg);
 }
 
 .py-xl{
@@ -33,7 +33,7 @@
     display: flex;
 }
 
-.itens-center {
+.items-center {
     align-items: center;
 }
 
